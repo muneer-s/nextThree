@@ -24,7 +24,7 @@ export default function Home() {
               style={{
                 position: 'absolute',
                 bottom: '10px',
-                left: '10px',
+                left: '80px',
                 color: 'white',
                 background: 'rgba(0,0,0,0.7)',
                 padding: '5px',

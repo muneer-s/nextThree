@@ -26,7 +26,6 @@ export default function ModelViewer({ onMetadata }: { onMetadata?: (data: any) =
     objectCount: obj.children.length,
   }), [obj]);
 
-  // Send metadata back to parent
   useEffect(() => {
     if (onMetadata) {
       onMetadata(metadata);
