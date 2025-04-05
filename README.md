@@ -13,3 +13,4 @@ A Next.js application using Three.js to display a textured 3D OBJ model.
 ```bash
 git clone [repository-url]
 cd obj-viewer
+npm run dev
